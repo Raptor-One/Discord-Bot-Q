@@ -4,7 +4,7 @@
   "description": "My own Discord bot",
   "main": "bot.js",
   "author": "Raptor One",
-  "dependencies": {}
+  "dependencies": {},
   "scripts": {
     "start": "node bot.js"
 	}
