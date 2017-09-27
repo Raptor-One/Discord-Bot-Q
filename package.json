@@ -5,4 +5,7 @@
   "main": "bot.js",
   "author": "Raptor One",
   "dependencies": {}
+  "scripts": {
+    "start": "node bot.js"
+	}
 }
